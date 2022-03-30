@@ -99,8 +99,6 @@ And if you haven't yet, make sure to follow me on below handles:
 
 Like, share and follow me 🚀 for more content.
 
-{% user aditmodi %}
-
 ---
 
 [Reference Notes](https://docs.aws.amazon.com/whitepapers/latest/big-data-analytics-options/amazon-quicksight.html)
