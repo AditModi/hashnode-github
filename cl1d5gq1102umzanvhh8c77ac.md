@@ -104,7 +104,6 @@ And if you haven't yet, make sure to follow me on below handles:
 
 Like, share and follow me 🚀 for more content.
 
-{% user aditmodi %}
 
 ---
 
