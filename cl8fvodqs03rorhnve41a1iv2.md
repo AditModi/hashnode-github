@@ -37,11 +37,11 @@
 
 (Click links to skip to section)
 
-1. [Tower of Babel: Making Apache Spark, Kubeflow, and Kubernetes Play Nice - Holden Karau, Netflix](#SESSION)
-2. [Spark on Kubernetes: The Elastic Story - Bowen Li & Huichao Zhao, Apple](#SESSION)
-3. [Why Kubernetes Can't Get Around FinOps – Cost Management Best Practice - Vanessa Kantner & Manuela Latz, Liquid Reply](#SESSION)
-4. [From Kubernetes to PaaS to … Err, What’s Next? - Daniel Bryant, Ambassador Labs](#SESSION)
-5. [Keynote: 7 Years of Running Kubernetes for Mercedes-Benz - Jens Erat, DevOps Engineer; Peter Mueller, Lead Expert; Sabine Wolz, Product Owner, Mercedes-Benz Tech Innovation](#KEYNOTE)
+1. [Tower of Babel: Making Apache Spark, Kubeflow, and Kubernetes Play Nice - Holden Karau, Netflix](https://aditmodi.hashnode.dev/top-5-sessions-at-kubecon-cloudnativecon-eu#SESSION)
+2. [Spark on Kubernetes: The Elastic Story - Bowen Li & Huichao Zhao, Apple](https://aditmodi.hashnode.dev/top-5-sessions-at-kubecon-cloudnativecon-eu#SESSION)
+3. [Why Kubernetes Can't Get Around FinOps – Cost Management Best Practice - Vanessa Kantner & Manuela Latz, Liquid Reply](https://aditmodi.hashnode.dev/top-5-sessions-at-kubecon-cloudnativecon-eu#SESSION)
+4. [From Kubernetes to PaaS to … Err, What’s Next? - Daniel Bryant, Ambassador Labs](https://aditmodi.hashnode.dev/top-5-sessions-at-kubecon-cloudnativecon-eu#SESSION)
+5. [Keynote: 7 Years of Running Kubernetes for Mercedes-Benz - Jens Erat, DevOps Engineer; Peter Mueller, Lead Expert; Sabine Wolz, Product Owner, Mercedes-Benz Tech Innovation](https://aditmodi.hashnode.dev/top-5-sessions-at-kubecon-cloudnativecon-eu#KEYNOTE)
 
 ## 1. Tower of Babel: Making Apache Spark, Kubeflow, and Kubernetes Play Nice - Holden Karau, Netflix - SESSION
 
