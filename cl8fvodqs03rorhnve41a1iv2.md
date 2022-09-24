@@ -29,7 +29,7 @@
 
 👉 I was given the opportunity to attend my first-ever in-person KubeCon + CloudNativeCon this year in Valencia, Spain, thanks to the CNCF and Linux Foundation for the Dan Kohn Scholarship. I'm grateful that the Linux Foundation and Cloud-Native Computing Foundation allowed me to attend the event.
 
-👉 I have shared the complete blog post [here](https://dev.to/aditmodi/my-experience-of-attending-the-kubecon-cloudnativecon-2022-in-person-for-the-first-time-23id-temp-slug-6909938?preview=c1f5cf719628e5a39bccbd4df3ffdc3963d1b817b9a1e5a77737213e04010e54c95f292bcc72746f811348a7316d0744f4aa2f76d299c7421d53c1c5).
+👉 I have shared the complete blog post [here](https://aditmodi.hashnode.dev/my-experience-of-attending-the-kubecon-cloudnativecon-2022-in-person-for-the-first-time).
 
 # Top 5 Sessions at KubeCon + CloudNativeCon EU
 
