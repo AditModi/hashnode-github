@@ -18,13 +18,7 @@
 
 ## Top 5 Sessions for Beginners at HashiConf Global
 
-(Click links to skip to section)
 
-1. [How HashiCorp Implements SRE - SESSION](#SESSION)
-2. [Terraforming Success - SESSION](#SESSION)
-3. [Enabling Infrastructure as Code at LinkedIn - SESSION](#SESSION)
-4. [Terraform Practices to Enable Infrastructure Scaling - SESSION](#SESSION)
-5. [Should My Team Really Need to Know Terraform? - SESSION](#SESSION)
 
 ### How HashiCorp Implements SRE - SESSION
 
