@@ -1,6 +1,6 @@
 ## Top 5 Sessions for Beginners at HashiConf Global
 
-👉 After two years as a fully digital conference, HashiConf is returning to an in-person conference this year. HashiConf Global will be a hybrid event and take place in Los Angeles, California, and online from 4th-6th Oct, 2022. Let's hope that this year I can finally attend HashiConf Global in person 🙏
+👉 After two years as a fully digital conference, HashiConf is returning to an in-person conference this year. HashiConf Global will be a hybrid event and take place in Los Angeles, California, and online from 4th-6th Oct, 2022.Due to complications with my US visa appointments, I would be unable to attend the event in person; instead, I would take part remotely🙏
 
 ## What is HashiConf Global ?
 
@@ -28,6 +28,7 @@
 
 ### How HashiCorp Implements SRE - SESSION
 
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w5wloafhtso7cyp0itff.png)
 
 **Date:** OCTOBER 06
 **Time:** 12:00 AM - 12:30 AM (GMT+5:30) 
@@ -70,7 +71,7 @@
 
 ### Terraform Practices to Enable Infrastructure Scaling - SESSION
 
-
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l2fxd6nwi2ah85om2ck8.png)
 
 **Date:** OCTOBER 06
 **Time:** 10:30 PM - 11:00 PM (GMT+5:30) 
