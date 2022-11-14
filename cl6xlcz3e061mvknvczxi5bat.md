@@ -1,4 +1,4 @@
-## AWS Cloud Data Ingestion
+# AWS Cloud Data Ingestion
 Patterns and Practices | AWS White Paper Summary
 
 * Today, many organizations want to gain further insight using the vast amount of data they generate or have access to. They may want to perform reporting, analytics and/or machine learning on that data and further integrate the results with other applications across the organization. 
@@ -73,3 +73,10 @@ Patterns and Practices | AWS White Paper Summary
 # Reference
 
 [Original paper](https://d1.awsstatic.com/whitepapers/aws-cloud-data-ingestion-patterns-practices.pdf?did=wp_card&trk=wp_card)
+
+[IMPORTANT]
+- This material is not mine. This material was written exclusively by Amazon Web Services.
+
+I am sharing this with a bigger IT audience to help folks in their quest to learn AWS. I don't intend to monetize anything, therefore everything I share will always be free. I'm not interested in profiting off the knowledge of others.
+
+Sharing relevant and helpful content is something I've always thought is a great approach to support the tech community. I'll keep offering my viewers insightful content. Thank you for supporting.
