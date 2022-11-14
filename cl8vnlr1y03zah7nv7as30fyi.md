@@ -1,4 +1,4 @@
-## Build Operational Analytics Pipeline on AWS Modern Data Architecture
+# Build Operational Analytics Pipeline on AWS Modern Data Architecture
 
 ➡️ This architecture enables customers to perform operational analytics in batch and real-time using log information from operational data sources. Operational insights are visualized using an OpenSearch Dashboard and alerts are distributed using Amazon Simple Notification Service (Amazon SNS).
 
@@ -24,3 +24,10 @@ You can download the Implementation Guide from this link 👀👇
 [https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/build-operational-analytics-pipeline-on-AWS-modern-data-architecture.pdf?did=wp_card&trk=wp_card](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/build-operational-analytics-pipeline-on-AWS-modern-data-architecture.pdf?did=wp_card&trk=wp_card) 
 
 I hope you will find it useful for your organization! 🤓
+
+[IMPORTANT]
+- This material is not mine. This material was written exclusively by Amazon Web Services.
+
+I am sharing this with a bigger IT audience to help folks in their quest to learn AWS. I don't intend to monetize anything, therefore everything I share will always be free. I'm not interested in profiting off the knowledge of others.
+
+Sharing relevant and helpful content is something I've always thought is a great approach to support the tech community. I'll keep offering my viewers insightful content. Thank you for supporting.
