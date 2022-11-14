@@ -32,3 +32,10 @@ You can download the Implementation Guide from this link 👀👇
 [https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/modernize-applications-with-microservices-using-amazon-eks-ra.pdf?did=wp_card&trk=wp_card](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/modernize-applications-with-microservices-using-amazon-eks-ra.pdf?did=wp_card&trk=wp_card)
 
 I hope you will find it useful for your organization! 🤓
+
+[IMPORTANT]
+- This material is not mine. This material was written exclusively by Amazon Web Services.
+
+I am sharing this with a bigger IT audience to help folks in their quest to learn AWS. I don't intend to monetize anything, therefore everything I share will always be free. I'm not interested in profiting off the knowledge of others.
+
+Sharing relevant and helpful content is something I've always thought is a great approach to support the tech community. I'll keep offering my viewers insightful content. Thank you for supporting.
