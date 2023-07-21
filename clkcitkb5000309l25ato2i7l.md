@@ -48,6 +48,8 @@ export class MyStack extends cdk.Stack {
 
 ## Implementing CI/CD with AWS CDK
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689940467359/64fef64d-c33c-4df8-b88d-b3c329c4b51e.png align="center")
+
 CI/CD is a practice that automates the process of building, testing, and deploying code changes. It ensures that every code change is thoroughly tested and deployed to production in a controlled and repeatable manner. With AWS CDK, you can set up a CI/CD pipeline to automatically build and deploy your infrastructure code using AWS CodePipeline and AWS CodeBuild.
 
 Let's extend our previous example to include CI/CD for our AWS CDK project:
@@ -60,6 +62,8 @@ Let's extend our previous example to include CI/CD for our AWS CDK project:
     
 4. **Run the CI/CD Pipeline:** With the CI/CD pipeline set up, every code push to the CodeCommit repository will trigger the pipeline, automatically building and deploying your AWS CDK project.
     
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689940479582/e07cb740-70da-4bd5-b85a-c05bbae29303.png align="center")
 
 ## Advantages of Implementing IaC and CI/CD with AWS CDK
 
