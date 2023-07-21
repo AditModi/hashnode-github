@@ -11,9 +11,13 @@ tags: aws, terraform, app-runner
 
 In today's fast-paced and dynamic cloud environment, resilience is a critical aspect of any application architecture. Building resilient applications ensures high availability, fault tolerance, and the ability to recover quickly from failures. AWS offers a variety of services that can help achieve resiliency, and in this blog post, we will explore how to architect for resilience using AWS App Runner and Terraform.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689921698480/6f84735e-ad7a-4aa6-a5a4-fd7dcd694c1e.png align="center")
+
 ## How to Architect for Resiliency
 
 Resilient architectures are designed to withstand and recover from failures, whether they are related to hardware, software, or network issues. By adopting best practices for resiliency, organizations can avoid costly downtime, maintain customer trust, and provide a seamless user experience.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689921739992/4211334f-6dd1-4bde-965c-5d6bace63a0d.png align="center")
 
 ## The Importance of Resilient Architectures
 
@@ -55,9 +59,17 @@ Cloud platforms like AWS offer a range of services and features that can help or
 
 AWS App Runner is a fully managed service that simplifies the deployment and scaling of containerized applications. With App Runner, developers can focus on writing code and let AWS handle the underlying infrastructure management. It automatically builds and deploys the container images from source code or a container registry, making it easy to get applications up and running quickly.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689921858402/742ae713-9935-4adb-adbb-a3df92db7012.png align="center")
+
 ## Using Terraform and AWS App Runner to Ensure Resiliency
 
-Terraform is an infrastructure-as-code tool that enables users to define and provision AWS resources in a declarative manner. By combining Terraform with AWS App Runner, developers can easily set up a resilient architecture for their containerized applications.
+Terraform is an infrastructure-as-code tool that enables users to define and provision AWS resources in a declarative manner.  
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689921983400/7f95695a-b928-40f7-95d3-b4fe84dc7ba5.png align="center")
+
+  
+  
+By combining Terraform with AWS App Runner, developers can easily set up a resilient architecture for their containerized applications.
 
 ### 1\. Defining the Application with Terraform
 
@@ -71,6 +83,8 @@ AWS App Runner automatically handles scaling based on incoming traffic and resou
 
 To ensure the resilience of your application, set up health checks that monitor the application's status. AWS App Runner can automatically replace instances that fail health checks, ensuring continuous availability.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689922283651/5a38330a-b9fc-4765-a517-9d36e21897e1.png align="center")
+
 ### 4\. Leveraging Multi-AZ Deployment
 
 App Runner allows you to deploy your application in multiple availability zones (AZs) for enhanced fault tolerance. In case of an AZ failure, the application can seamlessly switch to a healthy AZ, reducing the risk of downtime.
@@ -78,6 +92,14 @@ App Runner allows you to deploy your application in multiple availability zones 
 ### 5\. Logging and Monitoring
 
 Enable logging and monitoring to gain insights into the performance and health of your application. AWS App Runner integrates with AWS CloudWatch, allowing you to set up alarms and notifications for critical events.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689922197514/5c4ae8cb-38ef-4753-b3e8-f535839e3321.png align="center")
+
+  
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689922007582/bcc4c01c-f2d8-487b-9973-8a4d6c0389a4.png align="center")
+
+  
 
 ## Key Considerations
 
