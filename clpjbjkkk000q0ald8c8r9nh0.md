@@ -78,6 +78,14 @@ The [integration between Amazon DynamoDB and Amazon OpenSearch Service](https://
 
 **Pain Point Solved**: This feature makes it easier to find and understand data, reducing the time spent on data discovery and improving the overall efficiency of data analysis.
 
+#### AWS SDK for Kotlin
+
+[AWS SDK for Kotlin](https://aws.amazon.com/sdk-for-kotlin/) is a new addition designed to provide a seamless and efficient way for Kotlin developers to interact with AWS services.
+
+#### AWS SDK for Rust
+
+The [AWS SDK for Rust](https://aws.amazon.com/sdk-for-rust/) represents AWS's commitment to supporting the Rust programming community, known for its focus on performance and safety.
+
 ### **Conclusion: Shaping a Future of Enhanced Cloud Capabilities and AI Integration**
 
 Day 2 of AWS re:Invent 2023 has been a testament to AWS's commitment to continuous innovation. From Amazon S3 Express One Zone's high-performance storage to Amazon Q's tailored AI capabilities, these announcements are set to redefine how businesses and developers leverage cloud technology. As AWS continues to introduce new services and features, it's clear that the focus is not only on advancing technology but also on solving real-world challenges, enhancing efficiency, security, and usability. Stay tuned for more updates as AWS re:Invent 2023 continues to unfold, revealing the future of cloud computing and AI.
