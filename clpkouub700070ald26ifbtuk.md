@@ -3,7 +3,7 @@ title: "AWS re:Invent 2023 Day 3 Recap: Advancing AI, Data Management, and Partn
 datePublished: Thu Nov 30 2023 04:21:17 GMT+0000 (Coordinated Universal Time)
 cuid: clpkouub700070ald26ifbtuk
 slug: aws-reinvent-2023-day-3-recap-advancing-ai-data-management-and-partner-ecosystems
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701318058191/ccbaeb8c-f620-4c40-ae5f-1dab260cd106.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701423383691/0d948434-716b-4eb2-8174-c963fc96811c.webp
 tags: aws
 
 ---
