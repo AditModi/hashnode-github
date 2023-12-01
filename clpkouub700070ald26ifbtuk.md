@@ -69,13 +69,9 @@ AWS introduced several products and services to streamline data management and b
 
 **Vector Engine for Amazon OpenSearch Serverless**:
 
-**About the Solution**: AWS Clean Rooms ML allows partners to collaborate on ML models without sharing entire datasets.
-
 **Pain Point Solved**: The Vector Engine enhances the capability to store, update, and search vast amounts of vector embeddings, addressing the needs of applications that require efficient handling of large-scale vector data.
 
 **Amazon Neptune Analytics**:
-
-**About the Solution**: AWS Clean Rooms ML allows partners to collaborate on ML models without sharing entire datasets.
 
 **Pain Point Solved**: Neptune Analytics allows for the storage and analysis of graph and vector data together, facilitating advanced analytics and broadening the scope of data analysis applications.
 
