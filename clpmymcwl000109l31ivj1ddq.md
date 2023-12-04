@@ -77,7 +77,7 @@ Tools like [Raphael Manke](https://twitter.com/RaphaelManke)'s "[Unofficial Re:I
 
 ### Staying Connected and Upcoming Events
 
-To keep up with my favorite talks from AWS re:Invent, check out my Twitter thread \[link here\] or follow me for regular updates. I've also been documenting the announcements each day on my Hashnode blog \[link here\].
+To keep up with my favorite talks from AWS re:Invent, check out my Twitter thread [link here](https://x.com/adi_12_modi/status/1730231090177053125?s=20) or follow me for regular updates. I've also been documenting the announcements each day on my [Hashnode blog](https://aditmodi.hashnode.dev/).
 
 Next week, we're excited to meet at the AWS User Group Vadodara meetup, where I'll be sharing AWS credit codes worth $50. It's a great opportunity for us to connect and discuss the latest in AWS. Additionally, we're planning a re:Invent 2023 recap session for the AWS UG Vadodara in January, where we’ll dive deeper into these announcements and their implications.
 
