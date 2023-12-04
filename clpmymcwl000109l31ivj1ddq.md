@@ -91,6 +91,10 @@ As AWS re:Invent 2023 wraps up, I’m left reflecting on how these developments 
 
 All Image Credits: [Matt Wood](https://www.linkedin.com/in/themza/)
 
+![graphical user interface, text, application, chat or text message](https://media.licdn.com/dms/image/D4D22AQHn8DoZOdB-3g/feedshare-shrink_1280/0/1701126617412?e=1704326400&v=beta&t=4nGkS3qdyABff6Sp9ovcGSlvY--u9QBOdMszHjZtuBI align="left")
+
+couldn't agree more - [Grimy Underside](https://twitter.com/monkchips)
+
 ### Conclusion
 
 AWS re:Invent 2023 has been more than just a showcase of new technologies; it has been a source of inspiration and a guidepost for what’s possible. For me and for many others passionate about AWS, it’s a reminder of why we do what we do – to drive innovation, foster learning, and build a more efficient, secure, and sustainable future in cloud computing. Let's take these insights and turn them into action, continuing to grow and shape the world of AWS.
