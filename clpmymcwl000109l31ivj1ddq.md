@@ -7,7 +7,7 @@ tags: aws
 
 ---
 
-As AWS re:Invent 2023 concludes, I find myself reflecting on a week brimming with transformative innovations. This year’s event was not just a display of new technologies; it was a vivid portrayal of AWS's vision for the future of cloud computing. As a fervent advocate for AWS technologies and a being part of the AWS User Group Vadodara, I’ve been keenly observing the shifts and trends that emerged from this year's re:Invent. These developments have not only piqued my interest but have also reinforced my commitment to guiding and inspiring the next generation of technologists. Let’s explore the most impactful advancements and what they mean for the industry.
+As AWS re:Invent 2023 concludes, I find myself reflecting on a week brimming with transformative innovations. This year’s event was not just a display of new technologies; it was a vivid portrayal of AWS's vision for the future of cloud computing. As a fervent advocate for AWS technologies, I’ve been keenly observing the shifts and trends that emerged from this year's re:Invent. These developments have not only piqued my interest but have also reinforced my commitment to guiding and inspiring the next generation of technologists. Let’s explore the most impactful advancements and what they mean for the industry.
 
 ### The Frugal Architect: A Paradigm Shift in Cloud Computing
 
