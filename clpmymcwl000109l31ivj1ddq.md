@@ -73,7 +73,7 @@ Throughout re:Invent 2023, what stood out to me was AWS's continued focus on inn
 
 ### Tools I Swear By
 
-Tools like Marke's "Unofficial Re:Invent Schedule Planner" have become indispensable for navigating the plethora of sessions. Similarly, Luc's "AWS News Feed" tool is part of my daily routine to stay updated with AWS announcements.
+Tools like [Raphael Manke](https://twitter.com/RaphaelManke)'s "[Unofficial Re:Invent Schedule Planner](http://reinvent-23.vercel.app/)" has become indispensable for navigating the plethora of sessions. Similarly, [Luc van Donkersgoed](https://twitter.com/donkersgood)'s "[AWS News Feed](https://awsnews.l15d.com/)" tool is part of my daily routine to stay updated with AWS announcements.
 
 ### Staying Connected and Upcoming Events
 
