@@ -2,7 +2,7 @@
 title: "Architecting for Resilience on AWS with App Runner and Terraform"
 seoTitle: "Architecting for Resilience on AWS with App Runner and Terraform"
 seoDescription: "n today's fast-paced and dynamic cloud environment, resilience is a critical aspect of any application architecture. Building resilient applications ensures"
-datePublished: Sat Dec 03 2022 06:17:19 GMT+0000 (Coordinated Universal Time)
+datePublished: Sun Apr 02 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clkc6w1ia000p0al2dpx6cq5b
 slug: architecting-for-resilience-on-aws-with-app-runner-and-terraform
 tags: aws, terraform, app-runner
