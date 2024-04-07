@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Power of Computer Vision with 'Computer Vision on AWS' - A Book Review"
-seoTitle: "Unleashing the Power of Computer Vision with 'Computer Vision on AWS' "
-seoDescription: "In the era of artificial intelligence and machine learning, computer vision (CV) has emerged as a transformative technology, revolutionizing industries and "
+seoTitle: "Unleashing the Power of Computer Vision with 'Computer Vision on AWS'"
+seoDescription: "In the era of artificial intelligence and machine learning, computer vision (CV) has emerged as a transformative technology, revolutionizing industries and"
 datePublished: Tue Jan 02 2024 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clup984oo000108l4cefzhbov
 slug: unleashing-the-power-of-computer-vision-with-computer-vision-on-aws-a-book-review
