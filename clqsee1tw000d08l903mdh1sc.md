@@ -3,6 +3,7 @@ title: "Unlocking the Power of AWS Community Builders Program in 2024: A Compreh
 datePublished: Sat Dec 30 2023 18:30:09 GMT+0000 (Coordinated Universal Time)
 cuid: clqsee1tw000d08l903mdh1sc
 slug: unlocking-the-power-of-aws-community-builders-program-in-2024-a-comprehensive-guide-for-aspiring-aws-enthusiasts
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1712472941196/8ef03f53-a0b3-4a11-b473-35d8ed1093db.jpeg
 tags: aws
 
 ---
