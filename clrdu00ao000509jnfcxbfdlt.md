@@ -3,6 +3,7 @@ title: "Mastering AWS Systems Manager: Simplifying Infrastructure Management"
 datePublished: Sun Jan 14 2024 18:30:18 GMT+0000 (Coordinated Universal Time)
 cuid: clrdu00ao000509jnfcxbfdlt
 slug: mastering-aws-systems-manager-simplifying-infrastructure-management
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1712473075738/d8de844e-1328-480b-8285-9be8dd287558.jpeg
 tags: aws
 
 ---
