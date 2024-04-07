@@ -3,6 +3,7 @@ title: "AWS re:Invent 2023 Top Picks: A Recap of Must-Watch Sessions"
 datePublished: Fri Dec 22 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqhyd645000808jgfhype0fn
 slug: aws-reinvent-2023-top-picks-a-recap-of-must-watch-sessions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1712473027113/bad6aa8a-3c24-43e5-a627-deb2a23ff157.jpeg
 tags: aws
 
 ---
