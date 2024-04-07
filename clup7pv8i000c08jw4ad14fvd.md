@@ -10,7 +10,7 @@ tags: terraform
 
 ---
 
-In the ever-evolving cloud computing landscape, mastering infrastructure as code (IaC) has become a vital necessity for organizations seeking agility, scalability, and efficiency. The "Terraform Cookbook" by Mikael Krief, with a foreword by Armon Dadgar, CTO of HashiCorp, emerges as an indispensable resource for those embarking on the journey of cloud infrastructure provisioning and management using Terraform.  
+In the ever-evolving cloud computing landscape, mastering infrastructure as code (IaC) has become a vital necessity for organizations seeking agility, scalability, and efficiency. The "Terraform Cookbook" by Mikael Krief, with a foreword by Armon Dadgar, CTO of HashiCorp, emerges as an indispensable resource for those embarking on the journey of cloud infrastructure provisioning and management using Terraform.
 
 ### Target Audience:
 
@@ -67,4 +67,6 @@ Whether you're an experienced cloud professional or a newcomer seeking to unlock
 
 👉 [Link to the Book](https://www.packtpub.com/product/terraform-cookbook-second-edition/9781804616420)
 
-As an avid reader and contributor to the knowledge-sharing community, I find immense joy in unraveling the layers of insightful books. In a recent series, I've been sharing knowledge extracted from the books I explore, aiming to create a space for collective learning.
+As an avid reader and contributor to the knowledge-sharing community, I find immense joy in unraveling the layers of insightful books. In a recent series, I've been sharing knowledge extracted from the books I explore, aiming to create a space for collective learning.  
+  
+This review is a collaboration with Packt, a commendable source for staying updated on book releases and community growth! ❤️
