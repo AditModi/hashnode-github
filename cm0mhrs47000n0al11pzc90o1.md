@@ -1,6 +1,6 @@
 ---
 title: "Leveraging Real-Time Insights: Optimizing Financial Services with Amazon Timestream"
-datePublished: Fri Jul 26 2024 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Thu Aug 01 2024 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm0mhrs47000n0al11pzc90o1
 slug: leveraging-real-time-insights-optimizing-financial-services-with-amazon-timestream
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725371369475/f655b621-434a-4aab-a2f9-41225cf10706.jpeg
