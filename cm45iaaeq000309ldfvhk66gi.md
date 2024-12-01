@@ -14,7 +14,7 @@ Pre-re:Invent season is a time for AWS enthusiasts to celebrate innovation. This
 
 * [AWS CodePipeline](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codepipeline-ecr-inspectorscan-actions/): [Added support f](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codepipeline-ecr-inspectorscan-actions/)or publishing ECR images and InspectorScan actions.
     
-* [AWS CloudFormat](https://aws.amazon.com/blogs/devops/peek-inside-your-aws-cloudformation-deployments-with-timeline-view/)[io](https://aws.amazon.com/blogs/devops/peek-inside-your-aws-cloudformation-deployments-with-timeline-view/)[n: Introduced a](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codepipeline-ecr-inspectorscan-actions/) timeline view for deployments and custom Lambda-backed hooks.
+* [AWS CloudFormatio](https://aws.amazon.com/blogs/devops/peek-inside-your-aws-cloudformation-deployments-with-timeline-view/)[n: Introduced a](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codepipeline-ecr-inspectorscan-actions/) timeline view for deployments and custom Lambda-backed hooks.
     
 * [AWS S](https://aws.amazon.com/blogs/compute/simplifying-developer-experience-with-variables-and-jsonata-in-aws-step-functions/)[tep Function](https://aws.amazon.com/blogs/devops/peek-inside-your-aws-cloudformation-deployments-with-timeline-view/)[s: Now supports](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codepipeline-ecr-inspectorscan-actions/) variables and JSONata for simplifying workflows.
     
@@ -25,7 +25,7 @@ Pre-re:Invent season is a time for AWS enthusiasts to celebrate innovation. This
 
 * [Amazon](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-conditional-writes/) [S3: Conditio](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-conditional-writes/)nal writes enhance control over storage.
     
-* [Amazon Dy](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/)[n](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/)[amoDB: Pr](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-conditional-writes/)[e-warmin](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/)g tables and price reductions for on-demand thro[ughput and glob](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/)al tables.
+* [Amazon Dyn](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/)[amoDB: Pr](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-conditional-writes/)[e-warmin](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/)g tables and price reductions for on-demand thro[ughput and glob](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/)al tables.
     
 * [Amazon Aur](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-aurora-serverless-v2-scale-to-zero/)[ora Serve](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-conditional-writes/)[rless v2: Scaling to zero is](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-aurora-serverless-v2-scale-to-zero/) now a reality for cost opti[mization.](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/)
     
@@ -34,41 +34,41 @@ Pre-re:Invent season is a time for AWS enthusiasts to celebrate innovation. This
 
 ### [**Generat**](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/)**ive AI In**[**novations**](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-aurora-serverless-v2-scale-to-zero/)
 
-* [Amazon Bedro](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-enhanced-prompt-optimization/)[ck: Introduced In](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-enhanced-prompt-optimization/)lineAgents, binary embeddings, and Prompt Optimization.
+* [Amazon Bedrock: Introduced In](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-enhanced-prompt-optimization/)lineAgents, binary embeddings, and Prompt Optimization.
     
-* [Am](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-simplified-setup-web-app-experience/)[azon Q: Exp](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-simplified-setup-web-app-experience/)an[ded with perso](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-enhanced-prompt-optimization/)nalized responses, private sharing for Q Apps, and enhancements [for busi](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-simplified-setup-web-app-experience/)ness users.
+* [Amazon Q: Exp](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-simplified-setup-web-app-experience/)an[ded with perso](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-enhanced-prompt-optimization/)nalized responses, private sharing for Q Apps, and enhancements [for busi](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-simplified-setup-web-app-experience/)ness users.
     
 * [AWS App Studio GA](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-app-studio-ga/): [Simplifies manag](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-app-studio-ga/)ing modern cloud applications.
     
 
 ### **Networking and Security Enhancements**
 
-* [AWS PrivateLi](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-privatelink-cross-region-connectivity/)[nk: Now supports c](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-privatelink-cross-region-connectivity/)ross-region connectivity.
+* [AWS PrivateLink: Now supports c](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-privatelink-cross-region-connectivity/)ross-region connectivity.
     
-* [Amaz](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-vpc-block-public-access/)[on VPC: Intr](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-vpc-block-public-access/)[oduced block pu](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-privatelink-cross-region-connectivity/)blic access for enhanced security.
+* [Amazon VPC: Intr](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-vpc-block-public-access/)[oduced block pu](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-privatelink-cross-region-connectivity/)blic access for enhanced security.
     
 * [Amazon C](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-vpc-block-public-access/)[loudFron](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-origin-modifications-cloudfront-functions/)[t: Announced gR](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-privatelink-cross-region-connectivity/)PC support, VPC origins, and static [Anycast IP](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-vpc-block-public-access/)[s.](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-origin-modifications-cloudfront-functions/)
     
 
 ### [**Appl**](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-origin-modifications-cloudfront-functions/)**ication Development Upgrades**
 
-* [Amazon API Gatew](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-api-gateway-custom-domain-name-private-rest-apis/)[ay: Custom domain nam](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-api-gateway-custom-domain-name-private-rest-apis/)es are now supported for private REST APIs.
+* [Amazon API Gateway: Custom domain nam](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-api-gateway-custom-domain-name-private-rest-apis/)es are now supported for private REST APIs.
     
 * [Amazon ECS Predicti](https://aws.amazon.com/about-aws/whats-new/2024/11/predictive-scaling-for-amazon-ecs-services/)[ve Scaling: Empowe](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-api-gateway-custom-domain-name-private-rest-apis/)[r ECS services wit](https://aws.amazon.com/about-aws/whats-new/2024/11/predictive-scaling-for-amazon-ecs-services/)h predictive scaling for better workload management.
     
 
 ### [**Monitoring and Observabili**](https://aws.amazon.com/about-aws/whats-new/2024/11/predictive-scaling-for-amazon-ecs-services/)**ty**
 
-* [Amazon CloudWat](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-aws-lambda-esms/)[ch: Launched enriche](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-aws-lambda-esms/)d logs and new Lambda ESM metrics.
+* [Amazon CloudWatch: Launched enriche](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-aws-lambda-esms/)d logs and new Lambda ESM metrics.
     
 * [Amazon OpenSearch](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-ingestion-amazon-kinesis-data-streams/) [Ingestion: Now in](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-aws-lambda-esms/)[tegrates with Ki](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-ingestion-amazon-kinesis-data-streams/)nesis Data Streams.
     
 
 ### **Price Reductions**
 
-* [Amazon Keyspac](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-reduces-prices-75-percent/)[es: Reduced pricing](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-reduces-prices-75-percent/) by up to 75%.
+* [Amazon Keyspaces: Reduced pricing](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-reduces-prices-75-percent/) by up to 75%.
     
-* [Amazon Dy](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/)[namoDB:](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/) [Major price cuts](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-reduces-prices-75-percent/) for on-demand throughput and [global tables.](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/)
+* [Amazon DynamoDB:](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/) [Major price cuts](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-reduces-prices-75-percent/) for on-demand throughput and [global tables.](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables/)
     
 
 ### **Top Highlights of the Pre-re:Invent Wave**
@@ -83,5 +83,7 @@ Pre-re:Invent season is a time for AWS enthusiasts to celebrate innovation. This
     
 * **Step Functions Variables and JSONata**: Enhances developer productivity in workflows.
     
+
+Also, a Big shoutout to Luc van Donkersgoed for [**AWS News Feed**](https://aws-news.com/), the ultimate tool to stay updated with AWS! Track the latest AWS announcements and blogs, Search, tag, and categorize articles. Bookmark and rate your favorite content. It's a great resource for managing AWS updates efficiently.
 
 This pre-re:Invent wave ensures AWS stays ahead of the curve, empowering businesses and developers alike. With re:Invent just around the corner, these announcements are just a precursor to even more innovation. **Stay tuned for more!**
