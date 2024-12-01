@@ -3,6 +3,7 @@ title: "Unveiling Pre-re:Invent Magic: AWS November 2024 Updates"
 datePublished: Thu Oct 31 2024 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm45iaaeq000309ldfvhk66gi
 slug: unveiling-pre-reinvent-magic-aws-november-2024-updates
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733051989073/3d6c3a32-8cb0-494c-b2b3-cfb1ecc947dc.jpeg
 tags: aws
 
 ---
