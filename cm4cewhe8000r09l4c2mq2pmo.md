@@ -16,9 +16,9 @@ AWS re:Invent is AWS's premier annual cloud computing conference, happening this
     
 * **Breakout Sessions**: Explore deep dives across domains like AI/ML, sustainability, DevOps, and serverless.
     
-* **Workshops**: Hands-on learning with AWS experts.
+* **Workshops/Chalk Talks**: Hands-on learning with AWS experts.
     
-* **Networking**: Meet peers and AWS partners.
+* **Networking**: Meet peers and AWS partners via PeerTalk.
     
 
 ### **What’s Happening This Year?**
@@ -27,12 +27,12 @@ AWS re:Invent is AWS's premier annual cloud computing conference, happening this
     Learn about transformative services, from Graviton-powered workloads to advancements in generative AI.
     
 2. **Hands-on Experiences**:  
-    Dive into lab sessions and hackathons to solve real-world problems using AWS services.
+    Dive into lab sessions and gamedays to solve real-world problems using AWS services.
     
 3. **Partner Expo**:  
     Explore solutions and innovations from AWS partners in areas like security, AI, and modernization.
     
-4. **Live Demos and Launches**:  
+4. **Live Keynotes and Launches**:  
     Discover newly launched features and see them in action.
     
 5. **Certification Opportunities**:  
@@ -41,16 +41,19 @@ AWS re:Invent is AWS's premier annual cloud computing conference, happening this
 6. **Chalk Talks and Builders' Sessions**:  
     Intimate sessions led by AWS experts for solving specific use cases.
     
+7. Mixer Events:  
+    This year included a lot of **mixer events**, where **community builders, ambassadors, heroes and user group leaders** connect, share insights, and collaborate.
+    
 
 ### **Key Focus Areas in 2024**
 
-* **Generative AI**: Advancements in Amazon Bedrock and Trainium processors.
-    
-* **Sustainability**: Innovations to reduce environmental impact.
+* **Generative AI**: Advancements in Amazon Bedrock, Amazon Q and Trainium processors.
     
 * **Modernization**: Tools and strategies for updating legacy applications.
     
 * **Cost Optimization**: New features and services to help manage and reduce costs effectively.
+    
+* **Sustainability**: Innovations to reduce environmental impact.
     
 
 ### **Why Attend?**
@@ -92,6 +95,20 @@ Amazon Bedrock now supports latency-optimized inference for faster Gen AI respon
 
 The UltraCluster 2.0, powered by AWS’s 10p10u network, showcases unmatched generative AI capabilities. It exemplifies AWS's infrastructure leadership in handling complex AI workloads.  
 📖 [More about UltraCluster 2.0](https://www.aboutamazon.com/news/aws/aws-infrastructure-generative-ai)
+
+### Community Highlights
+
+Day 1 also shined a spotlight on the **AWS community** through the **APJ Community Awards**.
+
+We at **AWS UG Vadodara** were honored to be nominated alongside some of the most well-established communities—a testament to the consistent effort and dedication of our community over the past three years. Seeing our community recognized at such a grand stage was heartwarming and motivating.
+
+Congratulations to **Dimple Vaghela**, **Vivek Raja**, and others for their well-deserved wins, and a huge shoutout to **Nilesh Vaghela**—our **AWS Hero**—for his nominations across multiple categories. His contributions to the community are truly inspiring, and while we all believed he would sweep the awards, it was still amazing to see him recognized.
+
+I’m also incredibly grateful to have been nominated, which I see as a reflection of the unwavering support from the Vadodara AWS community.
+
+### AWS Heroes and Werner Vogels
+
+In another exciting event, **AWS Heroes** gathered with **Werner Vogels** for a special mixer. The highlight of the evening was the announcement of **Rozzana Suarez** as the recipient of the **Go Build Award**. This award recognizes an AWS Hero who goes above and beyond for the community. Past winners include **Bhuvaneshwari (India)** and **Luc (Netherlands)**. Rozzana’s achievement exemplifies the spirit of innovation and dedication that AWS Heroes embody.
 
 ### **Looking Forward**
 
