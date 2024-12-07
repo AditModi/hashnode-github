@@ -41,15 +41,30 @@ AWS re:Invent is AWS's premier annual cloud computing conference, happening this
 6. **Chalk Talks and Builders' Sessions**:  
     Intimate sessions led by AWS experts for solving specific use cases.
     
-7. Mixer Events:  
+7. **Mixer Events:**  
     This year included a lot of **mixer events**, where **community builders, ambassadors, heroes and user group leaders** connect, share insights, and collaborate.
     
+8. Explore AWS GameDay [Championshi](https://aws.amazon.com/buildon/gamedays/championships/)ps, where you can showcase your skills in a gamified environment: [**AWS GameDay**](https://aws.amazon.com/buildon/gamedays/championships/).
+    
+9. Engage in the vibran[t re:Play c](https://aws.amazon.com/buildon/gamedays/championships/)[eleb](https://reinvent.awsevents.com/community/replay/?trk=direct)ration on the final night: [**re:Play**](https://reinvent.awsevents.com/community/replay/?trk=direct).
+    
+10. Participate in AWS B[uilder Labs](https://aws.amazon.com/buildon/gamedays/championships/) [for real-tim](https://reinvent.awsevents.com/learn/aws-builder-labs/?trk=direct)e assistance within you[r live](https://reinvent.awsevents.com/community/replay/?trk=direct) AWS sandbox: [**AWS Builder Labs**](https://reinvent.awsevents.com/learn/aws-builder-labs/?trk=direct).
+    
+11. **AWS Cert Lounge:**[  
+    For those on t](https://reinvent.awsevents.com/community/aws-certified/)he certification journey, the [**AWS Cert Lounge**](https://reinvent.awsevents.com/community/aws-certified/) is the go-to destination. Gain insights into the latest certifications, connect with certification experts, and explore resources that will empower you on your path to becoming an AWS certified professional.
+    
+
+**Stay Informed with Luc'**[**s A**](https://twitter.com/donkersgood)**pp:**  
+To stay on top of the latest announcements and updates, leverage the [**AWS News App**](https://awsnews.l15d.com/) [by **Luc**. Thi](https://awsnews.l15d.com/)s app ensures you receive real-time information, allowing you to tailor your re:Invent experience based on the most recent developments.
+
+**Raphael Marke's Session** [**Tr**](https://twitter.com/donkersgood)**ack**[**er:**  
+Simplify yo](https://reinvent-23.vercel.app/)ur scheduling with [**Raphael Ma**](https://twitter.com/RaphaelManke)[**nke**'s **Session**](https://twitter.com/RaphaelManke) [**Tracker**](https://reinvent-23.vercel.app/). Star your favor[ite sessions](https://awsnews.l15d.com/), plan your itinerary, and make the most of your time at re:Invent with this user-friendly tool.
 
 ### **Key Focus Areas in 2024**
 
-* **Generative AI**: Advancements in Amazon Bedrock, Amazon Q and Trainium processors.
+* **Gene**[**rative**](https://reinvent.awsevents.com/community/replay/?trk=direct) [**AI**: Advan](https://reinvent.awsevents.com/learn/aws-builder-labs/?trk=direct)cements in Amazon Bedr[ock, Amazon Q a](https://reinvent-23.vercel.app/)nd Trainium process[ors.](https://reinvent.awsevents.com/learn/aws-builder-labs/?trk=direct)
     
-* **Modernization**: Tools and strategies for updating legacy applications.
+* [**Mo**](https://reinvent.awsevents.com/learn/aws-builder-labs/?trk=direct)[**dernization**:](https://twitter.com/RaphaelManke) Tools and strategies for updating legacy applications.
     
 * **Cost Optimization**: New features and services to help manage and reduce costs effectively.
     
