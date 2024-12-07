@@ -58,7 +58,11 @@ AWS re:Invent is AWS's premier annual cloud computing conference, happening this
 To stay on top of the latest announcements and updates, leverage the [**AWS News App**](https://awsnews.l15d.com/) [by **Luc**. Thi](https://awsnews.l15d.com/)s app ensures you receive real-time information, allowing you to tailor your re:Invent experience based on the most recent developments.
 
 **Raphael Marke's Session** [**Tr**](https://twitter.com/donkersgood)**ack**[**er:**  
-Simplify yo](https://reinvent-23.vercel.app/)ur scheduling with [**Raphael Ma**](https://twitter.com/RaphaelManke)[**nke**'s **Session**](https://twitter.com/RaphaelManke) [**Tracker**](https://reinvent-23.vercel.app/). Star your favor[ite sessions](https://awsnews.l15d.com/), plan your itinerary, and make the most of your time at re:Invent with this user-friendly tool.
+Simplify yo](https://reinvent-23.vercel.app/)ur scheduling with [**Raphael Manke**'s **Session**](https://twitter.com/RaphaelManke) [**Tracker**](https://reinvent-23.vercel.app/). Star your favor[ite sessions](https://awsnews.l15d.com/), plan your itinerary, and make the most of your time at re:Invent with this user-friendly tool.  
+  
+**Sam Williams’ Remeet App**
+
+Events like re:Invent aren’t just about learning; they’re also about **building connections**. Sam Williams’ **Remeet App** is your gateway to meeting experts, companies, and fellow attendees.
 
 ### **Key Focus Areas in 2024**
 
