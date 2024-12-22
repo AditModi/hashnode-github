@@ -3,6 +3,7 @@ title: "Milestones and Reflections of 2024 🚀"
 datePublished: Fri Dec 20 2024 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm4zea6zs000y09m5ejgae72r
 slug: milestones-and-reflections-of-2024
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734862495852/2f08e22b-d648-4eda-a58e-c893d8a52be0.png
 tags: aws
 
 ---
@@ -20,6 +21,21 @@ As 2024 comes to a close, I’m taking a moment to reflect on a year filled with
 🤝 **Community Building**: Coordinated 12 monthly meetups and orchestrated two marquee events with AWS User Group Vadodara: the **AWS Community Day Vadodara** and the **GenAI Edition**. Both events saw incredible participation and reinforced the strength of our community. Huge thanks to AWS UG Vadodara and HUG Vadodara for their unwavering support.
 
 📚 **Consistent Learning**: Managed to read a technology book every month, nurturing a habit that inspires me to stay curious and keep evolving.
+
+#### Lessons Learned in 2024 🌟
+
+Here are 10 lessons I’ve embraced this year:
+
+🙏 Gratitude opens the door to new opportunities.  
+🌟 Community support can amplify your achievements exponentially.  
+📚 Continuous learning is key in a rapidly evolving tech landscape.  
+🏆 Personal milestones matter more than titles or certifications.  
+🤝 Networking fuels growth and inspires creativity.  
+🧠 Reflecting on your journey enhances future decisions.  
+🚀 Every experience is a stepping stone to the next adventure.  
+✨ Embrace the unknown with excitement and curiosity.  
+💻 Being part of a tech community can be incredibly fulfilling.  
+💡 Sharing knowledge fosters collaboration and innovation.
 
 #### Reflections: Challenges and Learnings 💔
 
