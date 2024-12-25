@@ -18,7 +18,7 @@ As 2024 comes to a close, I’m taking a moment to reflect on a year filled with
 
 🎤 **Speaking Across Borders**: Delivered impactful talks across diverse platforms and geographies—from Bengaluru, Pune, and Kochi to international stages like Hungary, Indonesia, Japan, China, and AllDayDevOps. Each session reinforced my commitment to sharing knowledge and connecting with the global tech community.
 
-🤝 **Community Building**: Coordinated 12 monthly meetups and orchestrated two marquee events with AWS User Group Vadodara: the **AWS Community Day Vadodara** and the **GenAI Edition**. Both events saw incredible participation and reinforced the strength of our community. Huge thanks to AWS UG Vadodara and HUG Vadodara for their unwavering support.
+🤝 **Community Building**: Coordinated 10 monthly meetups and orchestrated two marquee events with AWS User Group Vadodara: the **AWS Community Day Vadodara** and the **GenAI Edition**. Both events saw incredible participation and reinforced the strength of our community. Huge thanks to AWS UG Vadodara and HUG Vadodara for their unwavering support.
 
 📚 **Consistent Learning**: Managed to read a technology book every month, nurturing a habit that inspires me to stay curious and keep evolving.
 
