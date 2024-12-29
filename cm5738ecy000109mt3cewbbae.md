@@ -1,6 +1,6 @@
 ---
 title: "Why I Give Back to the Tech Community: A Year of Speaking, Organizing, and Mentoring 🌟"
-datePublished: Fri Dec 27 2024 18:30:15 GMT+0000 (Coordinated Universal Time)
+datePublished: Thu Dec 26 2024 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5738ecy000109mt3cewbbae
 slug: why-i-give-back-to-the-tech-community-a-year-of-speaking-organizing-and-mentoring
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734863899189/b37c98be-b3a4-4b71-974c-f664b791bdcb.jpeg
