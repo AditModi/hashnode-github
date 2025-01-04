@@ -57,8 +57,8 @@ Get started with foundational resilience principles and set up your working envi
 Explore specific components of a financial trading application, including frontend web applications, serverless APIs, and containerized services.
 
 **3\. Discovering Trading Opportunities**  
-Learn about real-time data analytics, resilient news feed ingestion, and multi-Region architectures to ensure high availability and fault tolerance.  
-  
+Learn about real-time data analytics, resilient news feed ingestion, and multi-Region architectures to ensure high availability and fault tolerance.
+
 **What I enjoyed**
 
 1. Practical Approach The book's hands-on labs and real-world examples make complex concepts accessible and immediately applicable. This practical approach helps readers bridge the gap between theory and implementation.
@@ -71,6 +71,6 @@ Learn about real-time data analytics, resilient news feed ingestion, and multi-R
 **Conclusion**  
 *Building Resilient Cloud Applications on AWS* is a practical and insightful guide that bridges the gap between theoretical concepts and real-world application. The authors’ extensive field experience shines through in their detailed explanations and hands-on labs. This book not only equips you with the knowledge to build resilient systems but also provides practical tools to ensure your applications can withstand various challenges and continue to deliver exceptional performance.
 
-👉 \[Link to the Book\]
+👉 [\[Link to the Book\]](https://www.amazon.in/Engineering-Resilient-Systems-AWS-Resilience/dp/1098162420)
 
 Whether you’re a seasoned AWS practitioner or new to the platform, this book offers valuable insights and actionable strategies to enhance the resilience of your cloud applications. Embrace the journey to robust, reliable, and resilient systems today!
