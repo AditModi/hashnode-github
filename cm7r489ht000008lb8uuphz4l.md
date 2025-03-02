@@ -3,6 +3,7 @@ title: "Endpoints: Gateway & Interface Endpoints"
 datePublished: Thu Feb 20 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm7r489ht000008lb8uuphz4l
 slug: endpoints-gateway-and-interface-endpoints
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740890573430/288204c1-35e1-4dd1-b52c-d9ea7dadc279.png
 tags: aws
 
 ---
