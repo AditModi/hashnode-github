@@ -61,3 +61,7 @@ The **AWS Certified Advanced Networking – Specialty (ANS-C01) Certification Gu
 📖 **\[Get the Book Here\]** 👉 \[[Link](https://www.packtpub.com/en-in/product/aws-certified-advanced-networking-specialty-ans-c01-certification-guide-9781835080832)\]
 
 If you're aiming to master AWS networking and pass the ANS-C01 exam, this guide is the **perfect companion**. 🚀
+
+As an avid reader and contributor to the knowledge-sharing community, I find immense joy in unraveling the layers of insightful books. In a recent series, I've been sharing knowledge extracted from the books I explore, aiming to create a space for collective learning.
+
+This review is a collaboration with Packt, a commendable source for staying updated on book releases and community growth! ❤️
