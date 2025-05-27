@@ -71,3 +71,7 @@ Having worked extensively with AWS security, I found “Mastering AWS Security, 
 👉 [\[Link to the Book\]](https://learning.oreilly.com/library/view/mastering-aws-security/9781805125440/B21074_Preface_eBook.xhtml#_idParaDest-9)
 
 As someone dedicated to advancing cloud security knowledge, I highly recommend this book. It’s a crucial resource for mastering AWS security and staying ahead of evolving threats in the cloud. Secure your AWS environment with confidence and stay updated with the latest security trends! 🔐
+
+As an avid reader and contributor to the knowledge-sharing community, I find immense joy in unraveling the layers of insightful books. In a recent series, I've been sharing knowledge extracted from the books I explore, aiming to create a space for collective learning.
+
+This review is a collaboration with Packt, a commendable source for staying updated on book releases and community growth! ❤️
