@@ -73,4 +73,8 @@ Learn about real-time data analytics, resilient news feed ingestion, and multi-R
 
 👉 [\[Link to the Book\]](https://www.amazon.in/Engineering-Resilient-Systems-AWS-Resilience/dp/1098162420)
 
-Whether you’re a seasoned AWS practitioner or new to the platform, this book offers valuable insights and actionable strategies to enhance the resilience of your cloud applications. Embrace the journey to robust, reliable, and resilient systems today!
+Whether you’re a seasoned AWS practitioner or new to the platform, this book offers valuable insights and actionable strategies to enhance the resilience of your cloud applications. Embrace the journey to robust, reliable, and resilient systems today!  
+  
+As an avid reader and contributor to the knowledge-sharing community, I find immense joy in unraveling the layers of insightful books. In a recent series, I've been sharing knowledge extracted from the books I explore, aiming to create a space for collective learning.
+
+This review is a collaboration with Packt, a commendable source for staying updated on book releases and community growth! ❤️
