@@ -96,8 +96,12 @@ This book stood out for several reasons:
 
 ### **Conclusion**
 
-*Platform Engineering for Architects* is a must-read for anyone involved in designing or operating modern platforms. With its focus on value-driven engineering, actionable frameworks, and real-world examples, the book provides a comprehensive guide to crafting platforms that empower developers, streamline operations, and drive business success.  
-  
+*Platform Engineering for Architects* is a must-read for anyone involved in designing or operating modern platforms. With its focus on value-driven engineering, actionable frameworks, and real-world examples, the book provides a comprehensive guide to crafting platforms that empower developers, streamline operations, and drive business success.
+
 👉 [\[Link to the Book\]](https://www.packtpub.com/en-us/product/platform-engineering-for-architects-9781836203582#tocBlock)
 
 Whether you're looking to build your first internal development platform or refine an existing one, this book will equip you with the knowledge and tools to succeed in the evolving landscape of platform engineering.
+
+As an avid reader and contributor to the knowledge-sharing community, I find immense joy in unraveling the layers of insightful books. In a recent series, I've been sharing knowledge extracted from the books I explore, aiming to create a space for collective learning.
+
+This review is a collaboration with Packt, a commendable source for staying updated on book releases and community growth! ❤️
