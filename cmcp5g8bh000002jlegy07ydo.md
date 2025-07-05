@@ -87,8 +87,8 @@ You don’t need to be a cloud guru to set it up. Just clone the repo, customize
 Here’s how easy it is:
 
 ```bash
-git clone https://github.com/your-repo/desi-cloud-jobs
-cd desi-cloud-jobs
+git clone https://github.com/AditModi/desi-cloud-job-generator.git
+cd desi-cloud-job-generator
 open index.html
 ```
 
@@ -102,7 +102,7 @@ And if you ever get the title “Deadline Crusher of DynamoDB” or “Frugal In
 
 Because at the end of the day, every great cloud architect started with a single API call…and a whole lot of community.
 
-**Repo:** [GitHub – Desi Cloud Job Title Generator](https://github.com/your-repo/desi-cloud-jobs)  
-**Coming soon to:** AWS UG Vadodara’s Bento page
+**Repo:** [GitHub – Desi Cloud Job Title Generator](https://github.com/AditModi/desi-cloud-job-generator)  
+**Coming soon to:** [AWS UG Vadodara’s Bento page](https://main.d1w7jx611fq8ad.amplifyapp.com/)
 
 If you need help setting it up, want to suggest a new work style, or just want to geek out about AWS, my DMs are always open. Let’s keep building—together.
