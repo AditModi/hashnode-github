@@ -129,6 +129,22 @@ It’s a **configuration-level improvement**.
 
 ---
 
-## **The One-Sentence Takeaway**
+## **TL;DR (Plain and Simple)**
 
-> **Warm Pools + Mixed Instance Policies let your applications scale fast *and* cost-efficiently — without sacrificing instance flexibility.**
+**Warm Pools + Mixed Instance Policies let your applications scale fast *and* cost-efficiently — without sacrificing instance flexibility.**
+
+---
+
+## Part of *Road to re:Invent: Cloud Concepts Made Simple*
+
+This series breaks down AWS updates in:
+
+* Simple language
+    
+* Practical context
+    
+* With guidance you can use immediately
+    
+
+More updates coming as launches roll in.  
+Stay tuned. 👀
