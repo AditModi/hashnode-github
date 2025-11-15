@@ -162,6 +162,22 @@ This is *application logic*, not prompt engineering.
 
 ---
 
-## **The One-Sentence Takeaway**
+## **TL;DR (Plain and Simple)**
 
-> **AI Agents no longer just *think*. They can *act* — inside your business systems — because Bedrock now provides them a managed execution environment for your custom code.**
+**AI Agents no longer just *think*. They can *act* — inside your business systems — because Bedrock now provides them a managed execution environment for your custom code.**
+
+---
+
+## Part of *Road to re:Invent: Cloud Concepts Made Simple*
+
+This series breaks down AWS updates in:
+
+* Simple language
+    
+* Practical context
+    
+* With guidance you can use immediately
+    
+
+More updates coming as launches roll in.  
+Stay tuned. 👀
