@@ -3,6 +3,7 @@ title: "Why Rust on Lambda Isn’t Just a Side Quest — It’s a Superpower"
 datePublished: Thu Nov 13 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmi0gs3jg000102l82d1chlfr
 slug: why-rust-on-lambda-isnt-just-a-side-quest-its-a-superpower
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1763222568913/141d4139-2d12-45e3-b3e4-368d3ebda149.png
 
 ---
 
