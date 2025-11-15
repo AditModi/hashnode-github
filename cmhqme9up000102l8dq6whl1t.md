@@ -174,7 +174,7 @@ If you run EC2 at scale, this becomes a **daily tool**, not a once-a-quarter rev
 
 ---
 
-## 🏁 TL;DR — Plain Language
+## **TL;DR (Plain and Simple)**
 
 EC2 Capacity Manager gives you:
 
