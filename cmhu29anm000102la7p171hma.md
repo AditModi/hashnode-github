@@ -153,7 +153,7 @@ You can:
 
 ---
 
-## 🏁 TL;DR
+## **TL;DR (Plain and Simple)**
 
 AWS Backup now supports **EKS cluster + namespace + persistent data backups**, with:
 
@@ -169,3 +169,19 @@ AWS Backup now supports **EKS cluster + namespace + persistent data backups**, w
     
 
 It turns what was *a complex, multi-tool workflow* into a **single, predictable system.**
+
+---
+
+## Part of *Road to re:Invent: Cloud Concepts Made Simple*
+
+This series breaks down AWS updates in:
+
+* Simple language
+    
+* Practical context
+    
+* With guidance you can use immediately
+    
+
+More updates coming as launches roll in.  
+Stay tuned. 👀
