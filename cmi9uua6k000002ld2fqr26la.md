@@ -64,24 +64,11 @@ On October 18th, we supported the AWS UG Women in Tech event. Interacting with s
 
 Later that afternoon, **Vikramaditya** and I roamed around the city collecting swags and mementos for the event — making sure everything was in place before the big day.
 
----
-
-## **Event Setup: The Real Backstage Story**
-
 At the venue, after aligning the social media and graphics teams, I moved into full execution mode.
 
 ### **Swag, Mementos & Last-Minute Fixes**
 
-I spent hours ensuring all items were correct. I personally sat with our graphics designer to finalize speaker mementos — making sure each had accurate details and looked premium.
-
-### **MoC, LED & Audio — The Invisible Work**
-
-Then came the real time-sensitive coordination.  
-I worked closely with the MoC team reviewing scripts, rehearsing transitions, and refining their flow. At the same time, I coordinated minute-to-minute with the LED and audio teams to ensure timing didn’t slip. This was crucial.
-
-**This level of coordination is the reason we started and ended exactly on time — for the first time in years.**
-
-A huge shoutout to **Shivang** for handling LED/audio flawlessly and to **Harsh**, who managed social media and graphics while I handled other areas.
+I spent hours ensuring all items were correct. I sat with our graphics designer to finalize speaker mementos — making sure each had accurate details and looked premium.
 
 ---
 
@@ -115,6 +102,15 @@ I reached the venue early, checked in with registration and the LED/audio team, 
 During **Mahima’s session**, I felt honored when she mentioned me on stage — something I will write about separately.
 
 As the event unfolded, I managed the MoC and technical teams throughout the morning, trying (and failing) to find time for food. Thanks to Nirmal’s encouragement, I squeezed in a quick lunch before switching to manage the **advanced track**.
+
+### **MoC, LED & Audio — The Invisible Work**
+
+Then came the real time-sensitive coordination.  
+I worked closely with the MoC team reviewing scripts, rehearsing transitions, and refining their flow. At the same time, I coordinated minute-to-minute with the LED and audio teams to ensure timing didn’t slip. This was crucial.
+
+**This level of coordination is the reason we started and ended exactly on time — for the first time in years.**
+
+A huge shoutout to **Shivang** for handling LED/audio flawlessly and to **Harsh**, who managed social media and graphics while I handled other areas.
 
 ### **Career Counseling Initiative**
 
