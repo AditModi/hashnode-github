@@ -3,6 +3,7 @@ title: "AWS re:Invent 2025 – Matt Garman’s Keynote: A Builder’s Breakdown"
 datePublished: Tue Dec 02 2025 21:17:56 GMT+0000 (Coordinated Universal Time)
 cuid: cmip2xoai000002laaex26l1c
 slug: aws-reinvent-2025-matt-garmans-keynote-a-builders-breakdown
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764712414017/c4fd6069-5c85-4382-81d8-a85f72e0175f.png
 tags: aws
 
 ---
