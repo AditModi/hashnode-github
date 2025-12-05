@@ -88,7 +88,7 @@ AWS isn’t slowing down. They’re accelerating.
 
 ## **Apple on Graviton — A Rare and Powerful Guest Moment**
 
-One of the most interesting segments was Payam Murashidi from Apple.
+One of the most interesting segments was Payam Mirrashidi from Apple.
 
 He shared:
 
